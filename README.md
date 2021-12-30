@@ -1,1 +1,1 @@
-# decrypted-realme-thermal
+# Tools Thermal Mediatek
